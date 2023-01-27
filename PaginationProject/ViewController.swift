@@ -49,6 +49,7 @@ extension ViewController: UITableViewDelegate, UITableViewDataSource {
             } else {
                 limit = index + 20
             }
+            
         }
         
         while index < limit {
